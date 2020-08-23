@@ -1,0 +1,6 @@
+.app-conatiner {
+    margin: 0 auto;
+    width: 98rem;
+    display: flex;
+    justify-content: space-between;
+}

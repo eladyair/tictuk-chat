@@ -1,0 +1,14 @@
+.rooms-container {
+    width: 30%;
+    background-color: #fafafa;
+    border: solid 1px #cccccc;
+    border-radius: 0.5rem 0 0 0.5rem;
+    min-height: 60vh;
+
+    .rooms-title {
+        color: #19a7b1;
+        font-size: 2rem;
+        padding: 0 0 0 1rem;
+        border-bottom: solid 1px #cccccc;
+    }
+}

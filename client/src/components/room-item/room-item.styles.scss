@@ -1,0 +1,25 @@
+.room {
+    padding: 0.5rem 0 0.5rem 1rem;
+    border-bottom: solid 1px #cccccc;
+    cursor: pointer;
+
+    &__title {
+        color: #3a3a3a;
+        font-weight: bold;
+        display: inline-block;
+
+        &--selected {
+            color: #19a7b1;
+        }
+    }
+
+    &__description {
+        color: #cccccc;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+}
+
+.selected {
+    cursor: default;
+}
